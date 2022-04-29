@@ -1,2 +1,2 @@
-# assidente_tenerife
-Trabalho de informatica sobre um assidente aero com fator humano.
+# Desastre de Tenerife.
+Trabalho de informática apresentação de um acidente aero determinado por um fator humano.
